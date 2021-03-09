@@ -29,7 +29,7 @@ class AuthService {
       FirebaseUser user = result.user;
 
       // await DatabaseService(uid: user.uid).updateUserData('0', 'new crew member', 100);
-      print('An anonymous user has been logged in.')
+      print('An anonymous user has been logged in.');
       return _userFromFirebaseUser(user);
     } catch (e) {
       print(e.toString());
