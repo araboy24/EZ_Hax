@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290239632467",
+    "project_id": "ezhax-61e9a",
+    "storage_bucket": "ezhax-61e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290239632467:android:efb20a82d1ec7fb7fd62a6",
+        "android_client_info": {
+          "package_name": "ezcoding.ez_hax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290239632467-5ciml0dob97jcuemstdfe0ksvf4msai2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJLBbCMQvWhuaEtH4ADy_ZagzFafkWsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290239632467-5ciml0dob97jcuemstdfe0ksvf4msai2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
